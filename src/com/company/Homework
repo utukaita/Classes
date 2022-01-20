@@ -1,0 +1,11 @@
+Homework 1:
+2. Static methods or fields are unique to a class, not to an instance of a class.
+3. Association is a relationship between two classes where one uses the other in some way.
+4. Polymorphism allows having the same names for many distinct methods which take different types of parameters.
+Also applicable when willing to slightly modify a superclass' method in a subclass by overriding.
+5. In inheritance, one class is deemed as a subclass of another, thus receiving all the variables and methods present present there.
+In association, one class uses another class in some way and receives only the variables and methods it refers to.
+6. They are both different cases of polymorphism. In overloading, methods with the same name can have similar names but
+different signatures. In overriding, subclasses can have same methods as their superclasses but modified.
+7. A lion has cubs, a squirrel has peanuts. A lion is a cat. A squirrel is a mammal.
+A program has users. A folder has files. A game is an application. A search engine is a web page.
